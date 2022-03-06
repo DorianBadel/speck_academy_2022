@@ -71,7 +71,7 @@ header .navigation a:hover{
 }
 
 .content .header_text h2{
-  background-image: url(txt_bg.jpg);
+  background-image: url(../img/txt_bg.jpg);
   background-repeat: repeat;
   background-size: 300px;
   -webkit-background-clip: text;
